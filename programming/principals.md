@@ -5,3 +5,5 @@
 
 # 詳細
 - [DRY](dont_repeat_yourself.md)
+- [KISS](keep_it_simple_stupid.md)
+- [YAGNI](you_aint_gonna_need_it.md)
